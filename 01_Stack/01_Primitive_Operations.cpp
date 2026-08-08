@@ -77,17 +77,20 @@ int main(){
     st.Push(6);
     st.Push(7);
   
-    cout<<st.Size()<<endl<<endl<<endl;
+    cout<<"Size :- "<<st.Size()<<endl;
+
+    cout<<"Display :- ";
     st.Display();
     cout<<endl;
-    cout<<st.isFull()<<endl;
+
+    cout<<"isFull :- "<<st.isFull()<<endl;
     
-    // cout<<st.Pop()<<endl;
-    // cout<<st.Pop()<<endl;
-    // cout<<st.Pop()<<endl;
-    // cout<<st.Pop()<<endl;
-    // cout<<st.Pop()<<endl;
-    // cout<<st.Pop()<<endl<<endl;
+    cout<<st.Pop()<<endl;
+    cout<<st.Pop()<<endl;
+    cout<<st.Pop()<<endl;
+    cout<<st.Pop()<<endl;
+    cout<<st.Pop()<<endl;
+    cout<<st.Pop()<<endl<<endl;
     
     // cout<<st.isEmpty()<<endl;
 }
