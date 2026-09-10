@@ -82,6 +82,7 @@ void isValidParenthesis(string s, Stack &st){
                 }
                 else{
                     flag=false;
+                    break;
                 }
             }
             i++;
