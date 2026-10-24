@@ -43,16 +43,16 @@ Advanced_DSA/
 
 ### Stack
 - ✅ Primitive Operations
-- ⏳ Decimal to Binary Conversion
-- ⏳ Decimal to Octal Conversion
-- ⏳ Decimal to Hexadecimal Conversion
-- ⏳ Decimal to Any Base Conversion
-- ⏳ Parenthesized Expression Validation
-- ⏳ Bracketed Expression Validation
-- ⏳ Palindrome Check
-- ⏳ String Reversal
-- ⏳ Postfix Evaluation
-- ⏳ Prefix Evaluation
+- ✅ Decimal to Binary Conversion
+- ✅ Decimal to Octal Conversion
+- ✅ Decimal to Hexadecimal Conversion
+- ✅ Decimal to Any Base Conversion
+- ✅ Parenthesized Expression Validation
+- ✅ Bracketed Expression Validation
+- ✅ Palindrome Check
+- ✅ String Reversal
+- ✅ Postfix Evaluation
+- ✅ Prefix Evaluation
 
 ### Queue
 - ⏳ Primitive Operations
